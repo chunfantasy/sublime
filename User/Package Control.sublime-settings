@@ -6,8 +6,12 @@
 	"installed_packages":
 	[
 		"Better Completion",
+		"BracketHighlighter",
+		"Emmet",
 		"Markdown Preview",
+		"Monokai Extended",
 		"Package Control",
+		"SideBarEnhancements",
 		"Terminal"
 	]
 }
