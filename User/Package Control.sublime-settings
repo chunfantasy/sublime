@@ -9,10 +9,13 @@
 		"BracketHighlighter",
 		"CMake",
 		"Emmet",
+		"Go To Definition",
 		"Markdown Preview",
 		"Monokai Extended",
 		"Package Control",
+		"Pretty JSON",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Terminal"
 	]
 }
