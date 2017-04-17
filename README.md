@@ -1,6 +1,21 @@
 # sublime
 Sublime setting
 
+# Theme
+
+## Monokai Extended
+Color theme
+
+## Seti_UI
+Side bar icons
+
+## Themr
+Themr: Toggle Theme Settings
+
+## SideBarEnhencements
+
+# Code
+
 ## Better Compeletion
 
 ## BracketHighlighter
@@ -10,10 +25,7 @@ By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, 
   
 ## Markdown Preview
 
-## Monokai Extended
-Color theme
 
-## SideBarEnhencements
 
 ## Pretty JSON
 

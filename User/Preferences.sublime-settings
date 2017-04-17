@@ -1,8 +1,10 @@
 {
+	"Seti_tabs_small": true,
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"tab_size": 8
+	"tab_size": 8,
+	"theme": "Seti_orig.sublime-theme"
 }
