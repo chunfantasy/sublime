@@ -25,11 +25,13 @@ By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, 
   
 ## Markdown Preview
 
-
-
 ## Pretty JSON
 
 ## SublimeCodeIntel
 
 ## Terminal
 Used for fast openning terminal
+
+# Language
+
+## LanguageTool

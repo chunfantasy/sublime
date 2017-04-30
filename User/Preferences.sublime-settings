@@ -5,7 +5,7 @@
 	[
 		"Vintage"
 	],
-	"tab_size": 8,
-	"theme": "Seti_orig.sublime-theme",
-	"spell_check":true
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Seti_orig.sublime-theme"
 }
