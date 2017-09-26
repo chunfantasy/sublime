@@ -16,9 +16,6 @@ Default terminal setting is for Mac, change it for Windows if need.
 
 # Packages
 
-## sublime
-Sublime setting
-
 ## Theme
 
 ### Monokai Extended
