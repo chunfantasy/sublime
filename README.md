@@ -1,7 +1,9 @@
-#Installation
+# Installation
 
 Open Preferences->Browse Packages
+
 Remove Packages
+
 Then
 
 ```
@@ -12,40 +14,42 @@ Some errors may appear.
 To fix error on Monokai, go to preferences and change theme to Monokai, and reopen Sublime.
 Default terminal setting is for Mac, change it for Windows if need.
 
-# sublime
+# Packages
+
+## sublime
 Sublime setting
 
-# Theme
+## Theme
 
-## Monokai Extended
+### Monokai Extended
 Color theme
 
-## Seti_UI
+### Seti_UI
 Side bar icons
 
-## Themr
+### Themr
 Themr: Toggle Theme Settings
 
-## SideBarEnhencements
+### SideBarEnhencements
 
-# Code
+## Code
 
-## Better Compeletion
+### Better Compeletion
 
-## BracketHighlighter
+### BracketHighlighter
 
-## Emmet
+### Emmet
 By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.
   
-## Markdown Preview
+### Markdown Preview
 
-## Pretty JSON
+### Pretty JSON
 
-## SublimeCodeIntel
+### SublimeCodeIntel
 
-## Terminal
+### Terminal
 Used for fast openning terminal
 
-# Language
+## Language
 
-## LanguageTool
+### LanguageTool
