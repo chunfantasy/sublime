@@ -1,6 +1,13 @@
 #Installation
-Clone this repository to the location of Packages.
-Delete the old one and rename the repository to Packages.
+
+Open Preferences->Browse Packages
+Remove Packages
+Then
+
+```
+git clone https://github.com/chunfantasy/sublime.git Packages
+```
+
 Some errors may appear.
 To fix error on Monokai, go to preferences and change theme to Monokai, and reopen Sublime.
 Default terminal setting is for Mac, change it for Windows if need.
