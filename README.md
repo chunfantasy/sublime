@@ -14,6 +14,8 @@ Some errors may appear.
 To fix error on Monokai, go to preferences and change theme to Monokai, and reopen Sublime.
 Default terminal setting is for Mac, change it for Windows if need.
 
+---
+
 # Packages
 
 ## Theme
@@ -28,6 +30,8 @@ Side bar icons
 Themr: Toggle Theme Settings
 
 ### SideBarEnhencements
+
+---
 
 ## Code
 
@@ -46,6 +50,8 @@ By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, 
 
 ### Terminal
 Used for fast openning terminal
+
+---
 
 ## Language
 
