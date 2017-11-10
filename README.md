@@ -33,7 +33,7 @@ Sublime setting
 
 ---
 
-# Code
+---
 
 * Better Completion
 
@@ -52,7 +52,9 @@ Sublime setting
 * Terminal
 	Used for fast opening terminal
 
-# Language
+---
+
+# Language support
 
 * LanguageTool
 
