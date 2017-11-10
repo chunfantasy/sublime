@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Better Completion",
 		"BracketHighlighter",
 		"CMake",
@@ -12,7 +13,7 @@
 		"Go To Definition",
 		"LanguageTool",
 		"LaTeXTools",
-		"Markdown Preview",
+		"MarkdownLivePreview",
 		"Monokai Extended",
 		"Package Control",
 		"Pretty JSON",
