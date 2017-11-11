@@ -27,11 +27,18 @@ Sublime setting
 	Side bar icons
 
 * Themr
+
 	Themr: Toggle Theme Settings
 
 * SideBarEnhencements
 
+* Babel
+
+	Language highlight
+
 ---
+
+# Code
 
 ---
 
@@ -50,7 +57,10 @@ Sublime setting
 * SublimeCodeIntel
 
 * Terminal
+
 	Used for fast opening terminal
+
+* SublimeLinter
 
 ---
 
@@ -58,6 +68,5 @@ Sublime setting
 
 * LanguageTool
 
-* Babel
+	Proof-reading and grammar checker
 
-	Language highlight
