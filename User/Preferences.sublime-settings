@@ -1,6 +1,7 @@
 {
 	"Seti_tabs_small": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Dejavu Sans Mono",
@@ -13,5 +14,6 @@
 	"spell_check": true,
 	"tab_size": 4,
 	"theme": "Seti_orig.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true
 }
