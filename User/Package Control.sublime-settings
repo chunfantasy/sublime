@@ -21,7 +21,9 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Terminal",
-		"Themr"
+		"Themr",
+		"Vintageous"
 	]
 }

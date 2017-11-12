@@ -70,3 +70,10 @@ Sublime setting
 
 	Proof-reading and grammar checker
 
+# Notes
+
+* Key repeat on MacOS
+
+	defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+
+	And then restart Sublime.
