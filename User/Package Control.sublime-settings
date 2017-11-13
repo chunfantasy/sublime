@@ -10,6 +10,7 @@
 		"BracketHighlighter",
 		"CMake",
 		"Emmet",
+		"GitGutter",
 		"Go To Definition",
 		"LanguageTool",
 		"LaTeXTools",
@@ -20,7 +21,10 @@
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Terminal",
-		"Themr"
+		"Themr",
+		"Vintageous"
 	]
 }
