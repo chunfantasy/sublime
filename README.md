@@ -49,7 +49,7 @@ Sublime setting
 * Emmet
 
 	By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.
-  
+
 * MarkdownLivePreview
 
 * Pretty JSON
@@ -61,6 +61,8 @@ Sublime setting
 	Used for fast opening terminal
 
 * SublimeLinter
+
+* Tern_for_sublime
 
 ---
 

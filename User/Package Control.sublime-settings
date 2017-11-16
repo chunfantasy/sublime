@@ -25,6 +25,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Terminal",
+		"tern_for_sublime",
 		"Themr"
 	]
 }
