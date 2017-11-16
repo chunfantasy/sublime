@@ -16,6 +16,7 @@
 		"LaTeXTools",
 		"MarkdownLivePreview",
 		"Monokai Extended",
+		"NeoVintageous",
 		"Package Control",
 		"Pretty JSON",
 		"Seti_UI",
@@ -24,7 +25,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Terminal",
-		"Themr",
-		"Vintageous"
+		"Themr"
 	]
 }
