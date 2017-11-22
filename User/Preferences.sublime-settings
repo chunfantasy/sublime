@@ -5,7 +5,7 @@
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Dejavu Sans Mono",
-	"font_size": 10,
+	"font_size": 11,
 	"hot_exit": true,
 	"ignored_packages":
 	[
