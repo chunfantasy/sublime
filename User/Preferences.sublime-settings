@@ -1,6 +1,6 @@
 {
 	"Seti_tabs_small": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/MonokaiEasyForRetina (SL).tmTheme",
 	"default_line_ending": "windows",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,

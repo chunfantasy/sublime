@@ -36,6 +36,9 @@ Sublime setting
 
 	Language highlight
 
+* Colorsublime
+
+	Pick color theme
 ---
 
 # Code
