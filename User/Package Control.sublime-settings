@@ -11,6 +11,7 @@
 		"CMake",
 		"Colorsublime",
 		"Emmet",
+		"Fix Mac Path",
 		"GitGutter",
 		"LanguageTool",
 		"MarkdownLivePreview",
@@ -22,6 +23,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Terminal",
+		"tern_for_sublime",
 		"Theme - Afterglow",
 		"Themr",
 		"Vintageous"
