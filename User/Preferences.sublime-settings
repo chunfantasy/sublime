@@ -15,7 +15,7 @@
 	],
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "Seti_orig.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true
 }

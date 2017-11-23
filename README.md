@@ -26,6 +26,14 @@ Sublime setting
 
 	Side bar icons
 
+* Soda
+
+	A theme
+
+* Material
+
+	A theme
+
 * Themr
 
 	Themr: Toggle Theme Settings
