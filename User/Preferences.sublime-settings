@@ -1,6 +1,6 @@
 {
 	"Seti_tabs_small": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/MonokaiEasyForRetina (SL).tmTheme",
 	"default_line_ending": "windows",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -14,7 +14,7 @@
 	],
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "Afterglow-blue.sublime-theme",
+	"theme": "Afterglow-green.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true
 }
