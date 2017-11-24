@@ -75,6 +75,10 @@ Sublime setting
 
 * Tern_for_sublime
 
+* CTags
+
+	Jump to definition
+
 ---
 
 # Language support

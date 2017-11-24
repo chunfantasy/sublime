@@ -6,6 +6,6 @@
       "ctrl"
     ],
     "press_command": "drag_select",
-    "command": "goto_definition"
+    "command": "ternjs_jump_to_definition"
   }
 ]
