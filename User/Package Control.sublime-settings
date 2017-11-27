@@ -2,30 +2,27 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
+		"Auto Semi-Colon",
 		"Babel",
 		"Better Completion",
 		"BracketHighlighter",
 		"CMake",
 		"Colorsublime",
-		"CTags",
 		"Emmet",
 		"Fix Mac Path",
 		"GitGutter",
+		"JavaScript Console",
 		"LanguageTool",
 		"MarkdownLivePreview",
 		"Package Control",
 		"Pretty JSON",
 		"Seti_UI",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"Terminal",
-		"tern_for_sublime",
 		"Theme - Afterglow",
 		"Themr",
 		"Vintageous"
