@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
@@ -11,7 +12,6 @@
 		"BracketHighlighter",
 		"CMake",
 		"Colorsublime",
-		"Emmet",
 		"Fix Mac Path",
 		"GitGutter",
 		"JavaScript Console",
