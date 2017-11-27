@@ -4,12 +4,11 @@
 	"default_line_ending": "windows",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Dejavu Sans Mono",
-	"font_size": 11,
+	"font_face": "Source Code Pro",
+	"font_size": 13,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Fix Mac Path",
 		"Six",
 		"Vintage"
 	],
