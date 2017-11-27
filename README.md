@@ -8,7 +8,7 @@
 
 	To fix error on Monokai, go to preferences and change theme to Monokai, and reopen Sublime.
 
-4. Default terminal setting is for Mac, change it for Windows if need.
+4. Download fonts from [here](https://github.com/chunfantasy/fonts)
 
 # Setting
 
@@ -16,78 +16,85 @@ Sublime setting
 
 ---
 
-# Theme
+# Themes
 
-* Monokai Extended
+* Favorite themes
 
-	Color theme
-
-* Seti_UI
-
-	Side bar icons
-
-* Soda
-
-	A theme
-
-* Material
-
-	A theme
+	+ Monokai Extended
+	+ Afterglow
+	+ Seti_UI
+	+ Soda
+	+ Material
 
 * Themr
 
 	Themr: Toggle Theme Settings
 
-* SideBarEnhencements
+* Colorsublime
+
+	Pick color scheme
+
+---
+
+# JavaScript
+
+---
 
 * Babel
 
 	Language highlight
 
-* Colorsublime
+* SublimeLinter-contrib-eslint
 
-	Pick color theme
----
-
-# Code
-
----
-
-* Better Completion
-
-* BracketHighlighter
+	SublimeLinter is needed.
 
 * Emmet
 
 	By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.
 
-* MarkdownLivePreview
-
-* Pretty JSON
-
-* SublimeCodeIntel
-
-* Terminal
-
-	Used for fast opening terminal
-
-* SublimeLinter
-
-* Tern_for_sublime
-
-* CTags
-
-	Jump to definition
+* Javascript Console
 
 ---
 
-# Language support
+# C/C++
+
+* CMake
+
+---
+
+# JSON
+
+* Pretty JSON
+
+---
+
+# Markdown
+
+* MarkdownLivePreview
+
+---
+
+# Utilities
+
+* Better Completion
+
+* BracketHighlighter
+
+* SideBarEnhencements
+
+* Auto Semi-Colon
+
+* GitGutter
+
+* Vintageous
+
+	Support vim.
 
 * LanguageTool
 
-	Proof-reading and grammar checker
+* SublimeLinter
 
-# Notes
+	Proof-reading and grammar checker
 
 * Key repeat on MacOS
 
