@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
@@ -16,6 +17,7 @@
 		"JavaScript Console",
 		"LanguageTool",
 		"MarkdownLivePreview",
+		"NeoVintageous",
 		"Package Control",
 		"Pretty JSON",
 		"Seti_UI",
@@ -23,7 +25,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Theme - Afterglow",
-		"Themr",
-		"Vintageous"
+		"Themr"
 	]
 }
